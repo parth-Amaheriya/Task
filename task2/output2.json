@@ -1,0 +1,46 @@
+[
+    {
+        "brand": "Amul",
+        "name": "Amul Gold Milk",
+        "description": "Buy Amul Gold Milk for Rs.33.0 online. Amul Gold Milk at best prices with FREE shipping & cash on delivery. Only Genuine Products. 30 Day Replacement Guarantee.",
+        "image": [
+            "https://rukmini1.flixcart.com/image/1500/1500/xif0q/milk/v/y/k/500-gold-pouch-plain-amul-original-imah2hrgfkuanznh.jpeg?q=70",
+            "https://rukmini1.flixcart.com/image/1500/1500/xif0q/milk/p/m/r/500-gold-pouch-plain-amul-original-imah2hrgja3gpugy.jpeg?q=70",
+            "https://rukmini1.flixcart.com/image/1500/1500/xif0q/milk/6/k/e/500-gold-pouch-plain-amul-original-imah2hrg2gy2myxq.jpeg?q=70",
+            "https://rukmini1.flixcart.com/image/1500/1500/xif0q/milk/i/p/p/500-gold-pouch-plain-amul-original-imah2hrgxw7p7b9f.jpeg?q=70",
+            "https://rukmini1.flixcart.com/image/1500/1500/xif0q/milk/f/l/j/500-gold-pouch-plain-amul-original-imah2hrgqfakmgds.jpeg?q=70"
+        ],
+        "rating": {
+            "value": 4.5,
+            "count": 1732,
+            "review_count": 155
+        },
+        "price": {
+            "price": 33.0,
+            "currency": "INR"
+        },
+        "provider": {
+            "name": "Fulfilled by SUGSHAANnet",
+            "product_rating": 4.5,
+            "service_rating": 4.1,
+            "experience": "4 years with Flipkart"
+        },
+        "highlights": {
+            "Brand": "Amul",
+            "Milk Type": "NA",
+            "Flavor": "Plain",
+            "Type": "Plain",
+            "Quantity": "500 ml",
+            "Model Name": "Gold Milk",
+            "Maximum Shelf Life": "3 Days",
+            "Organic": "No",
+            "Container Type": "Pouch",
+            "Nutrient Content": "NA",
+            "Ingredients": "NA",
+            "FSSAI Number": "NA",
+            "Net Quantity": "500 ml"
+        },
+        "policy": "Returns are not permitted.",
+        "manufacturer_info": "Amul"
+    }
+]

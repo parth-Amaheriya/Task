@@ -1,0 +1,9 @@
+brand:str
+name:str
+image:[str]
+rating:{value;count;review count}
+price:{price,currency}
+provider:{name,rating count,experience}
+policy:{dict}
+highlights:{dict}
+manufacturer info:{dict}
